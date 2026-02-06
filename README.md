@@ -47,12 +47,6 @@
 **TDD / BDD Concepts** – Test-Driven / Behavior-Driven development mindset
 
 
-
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=omarenab&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omarenab&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenab&theme=smerko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
