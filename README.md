@@ -9,7 +9,7 @@
        alt="Coding" width="160" vspace="20" />
 </p>
 
-# ⚡ About Me:
+# ⚡ About Me :
 💻 MERN Stack Developer specializing in MongoDB, Express.js, React, and Node.js<br>
 🚀 Passionate about building scalable, performance-driven web applications<br>
 🧠 Strong focus on clean code, reusable components, and RESTful APIs<br>
@@ -49,11 +49,9 @@
 
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=omarenab)
-
-![](https://github-readme-stats.vercel.app/api?username=omarenab&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=omarenab&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenab&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=omarenab&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=omarenab&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=omarenab&theme=smerko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
