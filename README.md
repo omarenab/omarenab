@@ -1,6 +1,11 @@
-<img align="center"   width="180"
-  vspace="20"
-  hspace="15" alt="Coding" width="180" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh5YngzOWM2czgydTRhcHFvcjBtcTltN3hwN2xjbjd0czJzcGQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNREyZCeJNOgJgxiWk/giphy.gif" />
+<p align="center">
+  <img
+    src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHh5YngzOWM2czgydTRhcHFvcjBtcTltN3hwN2xjbjd0czJzcGQ5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cNREyZCeJNOgJgxiWk/giphy.gif"
+    alt="Coding"
+    width="180"
+    vspace="20"
+  />
+</p>
 
 # 🌟 About Me:
 💻 MERN Stack Developer specializing in MongoDB, Express.js, React, and Node.js<br>🚀 Passionate about building scalable, performance-driven web applications<br>🧠 Strong focus on clean code, reusable components, and RESTful APIs<br>🔐 Experienced with authentication, authorization, and backend security<br>📈 Always learning and improving through real-world projects<br>
